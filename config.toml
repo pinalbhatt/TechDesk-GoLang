@@ -1,3 +1,14 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "TechDesk-GoLang"
+theme = "hugo-theme-learn"
+metaDataFormat = "yaml"
+
+[params]
+  editURL = "#"
+  description = "TechDesk-GoLang - from the desk of Pinal Bhatt"
+  author = "Pinal Bhatt"
+  showVisitedLinks = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]  
