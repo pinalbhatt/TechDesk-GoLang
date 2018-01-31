@@ -1,3 +1,4 @@
-[submodule "themes/hugo-theme-learn"]
-	path = themes/hugo-theme-learn
-	url = https://github.com/matcornic/hugo-theme-learn.git
+[submodule "themes/techdesk"]
+	path = themes/techdesk
+	url = https://github.com/pinalbhatt/hugo-theme-learn.git
+	branch = develop

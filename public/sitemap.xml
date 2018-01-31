@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/tutorials/hugo-staticsitegenerator/introduction-to-hugo/</loc>
+    <lastmod>2018-01-29T16:41:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tutorials/hugo-staticsitegenerator/installing-hugo-on-windows/</loc>
+    <lastmod>2018-01-29T16:42:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tutorials/hugo-staticsitegenerator/installing-hugo-on-mac/</loc>
+    <lastmod>2018-01-29T16:42:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tutorials/hugo-staticsitegenerator/creating-a-new-site/</loc>
+    <lastmod>2018-01-29T16:43:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tutorials/hugo-staticsitegenerator/test-chapter-02/test-page-02-01/</loc>
+    <lastmod>2018-01-30T09:38:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tutorials/hugo-staticsitegenerator/test-chapter-02/</loc>
+    <lastmod>2018-01-30T09:37:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tutorials/hugo-staticsitegenerator/test-page-03/</loc>
+    <lastmod>2018-01-30T09:33:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tutorials/hugo-staticsitegenerator/test-page-02/</loc>
+    <lastmod>2018-01-30T09:14:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tutorials/hugo-staticsitegenerator/installing-using-themes/</loc>
+    <lastmod>2018-01-29T17:01:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tutorials/hugo-staticsitegenerator/</loc>
+    <lastmod>2018-01-29T16:40:29-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tutorials/hugo-staticsitegenerator/test-chapter-00/</loc>
+    <lastmod>2018-01-29T16:41:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/</loc>
+    <lastmod>2018-01-29T16:32:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/articles/</loc>
+    <lastmod>2018-01-29T16:32:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tutorials/</loc>
+    <lastmod>2018-01-29T16:32:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/videos/</loc>
+    <lastmod>2018-01-30T20:43:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-01-30T09:38:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "TechDesk-GoLang"
-theme = "hugo-theme-learn"
+theme = "techdesk"
 metaDataFormat = "yaml"
 
 [params]
